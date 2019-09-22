@@ -1,0 +1,45 @@
+class Usuario {
+
+    constructor(email, senha) {
+        this.email = email;
+        this.senha = senha;
+    }
+
+    isAdmin() {
+        return false;
+    }
+
+
+    show() {
+        console.log(this.email + ' --- ' + this.senha);
+    }
+}
+
+class Admin extends Usuario {
+
+    constructor(email, senha) {
+        super(email, senha);
+        this.admin = true;
+
+    }
+
+    isAdmin() {
+        return true;
+    }
+
+    show() {
+        console.log(this.email + ' --- ' + this.senha);
+    }
+}
+
+
+const user1 = new Usuario('email@teste.com', 'senha123');
+const admin1 = new Admin('email@teste.com', 'senha123');
+
+
+console.log(user1.isAdmin());
+user1.show();
+
+console.log(admin1.isAdmin());
+
+admin1.show();

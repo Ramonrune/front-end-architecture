@@ -1,0 +1,33 @@
+const minhaPromise = () => new Promise((resolve, reject) => {
+    setTimeout(() => { resolve('Ok') }, 2000);
+});
+
+/*
+minhaPromise().then(response => {
+        console.log(response);
+    })
+    .catch(err => {
+
+    });
+*/
+
+// só executa uma depois da outra
+//vai linha por linha 
+async function executaPromise() {
+    console.log(await minhaPromise());
+    console.log(await minhaPromise());
+    console.log(await minhaPromise());
+
+}
+
+//executaPromise();
+console.log('Teste');
+
+const execPromise = async() => {
+    console.log(await minhaPromise());
+    console.log(await minhaPromise());
+    console.log(await minhaPromise());
+
+}
+
+execPromise();

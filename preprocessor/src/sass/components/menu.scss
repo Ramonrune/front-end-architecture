@@ -1,0 +1,24 @@
+.logo {
+    display: block;
+    margin: 0 auto;
+}
+
+.menu-principal {
+    @include transition(left 10s);
+    display: block;
+    >ul {
+        list-style: none;
+        background: $lightgrey;
+        padding: 5px;
+        >li {
+            display: block;
+            padding: 10px;
+            background: $white;
+            border-bottom: 1px solid $grey;
+        }
+        >li:hover {
+            background: $blue;
+            color: $white;
+        }
+    }
+}

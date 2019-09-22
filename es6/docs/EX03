@@ -1,0 +1,13 @@
+const arr = [1, 2, 3, 4, 5];
+arr.map(item => item + 10);
+
+
+
+const mostraIdade = (nome = 'Diego', idade = 23) => ({ nome, idade });
+
+const mostraUsuario = (nome = 'Diego', idade = 18) => ({ nome, idade });
+
+const promise = () => new Promise((resolve, reject) => resolve());
+
+
+promise().then(e => console.log('successo')).catch(e => console.log('teste'));

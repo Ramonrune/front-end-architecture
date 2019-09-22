@@ -1,0 +1,45 @@
+
+<button id="novoTodo">Adicionar</button>
+
+class List {
+    constructor() {
+        this.data = [];
+    }
+
+    add(data) {
+        this.data.push(data);
+        console.log(this.data);
+    }
+}
+
+class TodoList extends List {
+
+    constructor() {
+        super();
+        this.usuario = 'Ramon';
+
+    }
+
+    mostrarUsuario() {
+        console.log(this.usuario);
+    }
+
+
+
+
+}
+
+class Matematica {
+
+    static soma(a, b) {
+        return a + b;
+    }
+}
+
+
+var minhaLista = new TodoList();
+console.log(Matematica.soma(10, 20));
+
+document.getElementById('novoTodo').onclick = function() {
+    minhaLista.add('Novo todo');
+}

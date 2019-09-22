@@ -1,0 +1,13 @@
+$lightgrey: lightgrey;
+$grey: grey;
+$blue: blue;
+$white: white;
+$font: Arial,
+Helvetica,
+sans-serif;
+@mixin transition($property) {
+    -webkit-transition: $property;
+    -moz-transition: $property;
+    -o-transition: $property;
+    transition: $property;
+}

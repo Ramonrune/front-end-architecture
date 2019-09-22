@@ -1,0 +1,12 @@
+{
+    "name": "preprocessor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "scss": "sass src/sass/main.scss assets/css/out.css"
+    },
+    "author": "",
+    "license": "ISC"
+}

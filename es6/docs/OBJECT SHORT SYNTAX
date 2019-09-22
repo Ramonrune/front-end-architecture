@@ -1,0 +1,16 @@
+const nome = 'Ramon';
+const idade = 23;
+/*
+const usuario = {
+    nome: nome,
+    idade: idade,
+    empresa: 'Teste'
+};*/
+
+const usuario = {
+    nome,
+    idade,
+    empresa: 'Teste'
+};
+
+console.log(usuario);

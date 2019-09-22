@@ -1,0 +1,23 @@
+body {
+    font-family: $font;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: "cabecalho" "conteudo" "periferico" "rodape";
+    grid-gap: 5px 0px;
+}
+
+header {
+    grid-area: cabecalho;
+}
+
+.content {
+    grid-area: conteudo;
+}
+
+aside {
+    grid-area: periferico;
+}

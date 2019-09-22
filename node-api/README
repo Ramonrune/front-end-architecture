@@ -1,0 +1,8 @@
+For me NATing the port in VirtualBox worked
+Go to VirtualBox -> Your BOX -> Settings -> Network ->
+Choose NAT
+Open Advanced
+Click Port Forwarding
+Add new rule to map whatever port you need from host to guest
+Click OK, OK
+Then stop, start the BOX

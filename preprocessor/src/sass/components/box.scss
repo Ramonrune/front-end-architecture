@@ -1,0 +1,14 @@
+aside {
+    .box-lateral {
+        background: $lightgrey;
+        box-shadow: 2px 2px $grey;
+        padding-bottom: 20px;
+    }
+    .box-noticia {
+        p,
+        h2 {
+            margin-top: 2px;
+            margin-bottom: 0;
+        }
+    }
+}

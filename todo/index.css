@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+input {
+    width: 500px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    vertical-align: middle;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 10px;
+    background-color: #fff;
+    color: #2c3e50;
+}
+
+#container div {
+    background-color: #ecf0f1;
+    color: #2c3e50;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 14px;
+    height: 100px;
+    cursor: pointer;
+    background-image: url('img/delete.png');
+    background-size: 25px;
+    background-position: 95% 5%;
+    background-repeat: no-repeat;
+}
+
+input {
+    margin: 0;
+    padding: 14px;
+    border: none;
+    background-color: #ecf0f1;
+    color: #2c3e50;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+input:focus {
+    outline: none !important;
+}
+
+button {
+    border: none;
+    padding: 14px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: rgb(15, 122, 155);
+    color: white;
+    font-weight: bold;
+}
+
+.error {
+    visibility: hidden;
+}
+
+.error active {
+    visibility: visible;
+}

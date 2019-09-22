@@ -1,0 +1,12 @@
+{
+  "name": "preproc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "build": "sass src/sass/main.scss assets/css/main_final.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
