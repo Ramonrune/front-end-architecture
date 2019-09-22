@@ -5,8 +5,12 @@ Front-end architecture and usefull annotations.
 
 ## Usefull resources
 
+* [Front-End Check List](https://github.com/thedaviddias/Front-End-Checklist) - Front-End Checklist for modern websites
 * [PWABuilder](https://www.pwabuilder.com/) - Quickly and easily turn your website into an app!
 * [TinyJPG](https://tinyjpg.com/) - Compress JPG and PNG files!
 * [Sass Architecture](https://www.sitepoint.com/architecture-sass-project/) - Architecture for a Sass Project.
 * [MyDevice](https://www.mydevice.io/) - Device Widths, comparation and browser features.
 * [AirBNB JavaScript](https://github.com/airbnb/javascript) - AirBNB JavaScript Style Guide.
+* [Web pack](https://github.com/ruanyf/webpack-demos) - Collection of simple demos of webpack.
+* [JSON Server](https://github.com/typicode/json-server) - Full fake REST API for quick back-end prototyping and mocking.
+
