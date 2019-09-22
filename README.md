@@ -13,4 +13,4 @@ Front-end architecture and usefull annotations.
 * [AirBNB JavaScript](https://github.com/airbnb/javascript) - AirBNB JavaScript Style Guide.
 * [Web pack](https://github.com/ruanyf/webpack-demos) - Collection of simple demos of webpack.
 * [JSON Server](https://github.com/typicode/json-server) - Full fake REST API for quick back-end prototyping and mocking.
-
+* [Mozilla Developer](https://developer.mozilla.org/pt-BR/) - Resources from developers to developers.
