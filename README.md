@@ -14,3 +14,11 @@ Front-end architecture and usefull annotations.
 * [Web pack](https://github.com/ruanyf/webpack-demos) - Collection of simple demos of webpack.
 * [JSON Server](https://github.com/typicode/json-server) - Full fake REST API for quick back-end prototyping and mocking.
 * [Mozilla Developer](https://developer.mozilla.org/pt-BR/) - Resources from developers to developers.
+
+
+## This repository contains samples of...
+* PWA Apps.
+* Preprocessors (Sass).
+* HTML, CSS, JavaScript (all using latest versions).
+* Packet managers (npm).
+* Node apis with mongo for prototyping.
