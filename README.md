@@ -22,3 +22,4 @@ Front-end architecture and usefull annotations.
 * HTML, CSS, JavaScript (all using latest versions).
 * Packet managers (npm).
 * Node apis with mongo for prototyping.
+* Layout (mediaqueries, grid, flex).
