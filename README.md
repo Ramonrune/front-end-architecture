@@ -3,7 +3,16 @@
 Front-end architecture and usefull annotations.
 
 
-## Usefull resources
+## This repository contains samples of...
+* PWA Apps.
+* Preprocessors (Sass).
+* HTML, CSS, JavaScript (all using latest versions).
+* Packet managers (npm).
+* Node apis with mongo for prototyping.
+* Layout (mediaqueries, grid, flex).
+
+
+## Useful resources
 
 * [Front-End Check List](https://github.com/thedaviddias/Front-End-Checklist) - Front-End Checklist for modern websites
 * [PWABuilder](https://www.pwabuilder.com/) - Quickly and easily turn your website into an app!
@@ -15,11 +24,3 @@ Front-end architecture and usefull annotations.
 * [JSON Server](https://github.com/typicode/json-server) - Full fake REST API for quick back-end prototyping and mocking.
 * [Mozilla Developer](https://developer.mozilla.org/pt-BR/) - Resources from developers to developers.
 
-
-## This repository contains samples of...
-* PWA Apps.
-* Preprocessors (Sass).
-* HTML, CSS, JavaScript (all using latest versions).
-* Packet managers (npm).
-* Node apis with mongo for prototyping.
-* Layout (mediaqueries, grid, flex).
