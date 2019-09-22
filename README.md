@@ -23,4 +23,4 @@ Front-end architecture and usefull annotations.
 * [Web pack](https://github.com/ruanyf/webpack-demos) - Collection of simple demos of webpack.
 * [JSON Server](https://github.com/typicode/json-server) - Full fake REST API for quick back-end prototyping and mocking.
 * [Mozilla Developer](https://developer.mozilla.org/pt-BR/) - Resources from developers to developers.
-
+* [OOCSS, SMACSS, BEM, DRY CSS](https://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/) - Os principais estilos de escrita de CSS.
