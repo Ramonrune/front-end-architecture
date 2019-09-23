@@ -25,3 +25,4 @@ Front-end architecture and usefull annotations.
 * [Mozilla Developer](https://developer.mozilla.org/pt-BR/) - Resources from developers to developers.
 * [OOCSS, SMACSS, BEM, DRY CSS](https://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/) - Os principais estilos de escrita de CSS.
 * [Squoosh](https://squoosh.app) - Squoosh image optimization
+* [CSS and JS Minifier](https://www.minifier.org/) - CSS and Javascript Minifiers
