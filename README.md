@@ -26,3 +26,4 @@ Front-end architecture and usefull annotations.
 * [OOCSS, SMACSS, BEM, DRY CSS](https://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/) - Os principais estilos de escrita de CSS.
 * [Squoosh](https://squoosh.app) - Squoosh image optimization
 * [CSS and JS Minifier](https://www.minifier.org/) - CSS and Javascript Minifiers
+* [Sprites Generator](https://www.toptal.com/developers/css/sprite-generator/) - Sprites Generator
