@@ -1,0 +1,13 @@
+$bgcolor: #ddd;
+$fontcolor: #333;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: $bgcolor;
+    color: $fontcolor;
+}
+
+.logo {
+    background-image: url(../img/logo.jpg);
+    height: 120px;
+    width: 218px;
+}
